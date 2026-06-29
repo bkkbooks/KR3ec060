@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR3ec060/bkk/v1/markers/4
+seq: 4
+markers:
+  front:
+  - {type: xml-element, offset: 2, content: '', id: KR3ec060_jc_NaN-d4.d65.d58p2, name: p, role: open, attrs: {'xml:id': KR3ec060_jc_NaN-d4.d65.d58p2}}
+  - {type: 'tls:seg', offset: 2, content: '', id: KR3ec060_jc_NaN-d4.d65.d58.p2s1}
+  - {type: punctuation, offset: 6, content: ，, id: KR3ec060_jc_004-bkkpn1}
+  - {type: 'tls:seg', offset: 6, content: '', id: KR3ec060_jc_NaN-d4.d65.d58.p2s2}
+  - {type: punctuation, offset: 11, content: ，, id: KR3ec060_jc_004-bkkpn2}
+  - {type: 'tls:seg', offset: 11, content: '', id: KR3ec060_jc_NaN-d4.d65.d58.p2s3}
+  - {type: punctuation, offset: 15, content: ，, id: KR3ec060_jc_004-bkkpn3}
+  - {type: 'tls:seg', offset: 15, content: '', id: KR3ec060_jc_NaN-d4.d65.d58.p2s4}
+  - {type: punctuation, offset: 20, content: 。, id: KR3ec060_jc_004-bkkpn4}
+  - {type: xml-element, offset: 20, content: '', id: KR3ec060_jc_NaN-d4.d65.d58p2_end, name: p, role: close, attrs: {'xml:id': KR3ec060_jc_NaN-d4.d65.d58p2}}
+  body: []
+  back: []
+hash: sha256:8fa66272eedaf501b40926955f8016688fd523c7ca0afba414bd8ef7004220e9
