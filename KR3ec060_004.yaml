@@ -1,15 +1,12 @@
 canonical_identifier: bkk:krp/KR3ec060/jc/v1/juan/4
 seq: 4
-front:
+body:
   text: 卷柏生用辛平破血治淋結炙用辛溫止血治腸風
   hash: sha256:f467000f7fae38f70d5b04f9c59e77e0a9d8a9a9700d68297e43055b512512b4
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR3ec060_jc_NaN-d4.d65.d58.h1s1}
   - {type: 'tls:div-end', offset: 20, content: '', id: KR3ec060_jc_000-d4.d65d58}
   - {type: 'tls:div-start', offset: 20, content: '', id: KR3ec060_jc_000-d4.d65d59, level: 3, head_text: 豨薟草}
-body:
-  text: ''
-  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 metadata:
   title: 本草分經
   edition:
@@ -17,4 +14,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3ec060.xml
-hash: sha256:0dcace8fd6dbdee4f954c2ca355b74018367e82b0b35267099324e27fc658afd
+hash: sha256:58c937ab6bfb9ea720c7176f6d62e4088760bc41b21b889bfd4a60cc85f699eb
